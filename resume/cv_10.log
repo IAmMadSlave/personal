@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.9.5)  21 JAN 2015 16:26
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.9.5)  23 JAN 2015 12:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1240,16 +1240,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--80
  []
 
 
-LaTeX Font Warning: Font shape `EU1/Arial(1)/m/sc' undefined
-(Font)              using `EU1/Arial(1)/m/n' instead on input line 109.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--126
+Underfull \hbox (badness 10000) in paragraph at lines 87--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--141
+Underfull \hbox (badness 10000) in paragraph at lines 133--154
 
  []
 
@@ -1260,31 +1256,27 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 147--180
+Underfull \hbox (badness 10000) in paragraph at lines 160--193
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
 [2
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 202.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 220.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 220.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38321 strings out of 493918
- 701289 string characters out of 6150564
- 1124936 words of memory out of 5000000
- 41155 multiletter control sequences out of 15000+600000
+ 38315 strings out of 493918
+ 701142 string characters out of 6150564
+ 1124623 words of memory out of 5000000
+ 41149 multiletter control sequences out of 15000+600000
  5286 words of font info for 54 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  74i,9n,68p,10450b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
