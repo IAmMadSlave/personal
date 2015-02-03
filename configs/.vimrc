@@ -1,0 +1,31 @@
+set laststatus=2
+set backupdir=./backup,.,/tmp
+set directory=.,./backup,/tmp
+set nocompatible
+set autoindent
+set backup
+set nu
+set smartindent
+set showmatch
+set textwidth=79
+set title
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+syntax on
+set t_Co=256
+set modeline
+set ls=2
+colorscheme molokai
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'gmarik/Vundle.vim'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'amdt/vim-niji'
+Plugin 'scrooloose/nerdtree'
+Plugin 'bling/vim-airline'
+call vundle#end()
+filetype indent on
+map <C-n> :NERDTreeToggle<CR>

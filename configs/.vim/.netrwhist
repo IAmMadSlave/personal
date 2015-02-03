@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/darklord/.fontconfig'
+let g:netrw_dirhist_2='/home/darklord/documents'
+let g:netrw_dirhist_3='/home/darklord/COP4710/company'
+let g:netrw_dirhist_4='/home/thewhitedeath/Courses/cop5621/Notes'
