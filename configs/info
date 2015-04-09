@@ -1,0 +1,5 @@
+install cmake python-dev
+clone vundle
+install vundle
+install fonts for airline
+install lolcat
