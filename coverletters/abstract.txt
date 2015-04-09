@@ -1,0 +1,25 @@
+Jamie Foster
+jfoster@ufl.edu
+321-525-1047
+University of Florida, Department of Microbiology and cell Science
+
+Title: Generating metabolic networks of the modern stromatolite microbiome
+
+Abstract: 
+Stromatolites are quintessential geomicrobiological ecosystems with a fossil record that extends back 3.5 billion years. These long-lived features are 
+sedimentary structures formed as a result of the synergy between microbial metabolisms and the environment, and are used in a wide range of 
+biotechnological applications (e.g. biogenic life support, carbon sequestration, and natural product discovery). Ancient stromatolites formed massive 
+carbonate reefs comparable in size to modern coral reefs, dominating life on our planet for 80% of Earth history. Modern stromatolites, in contrast, are 
+relatively rare, but have been found in diverse habitats including freshwater, marine and hypersaline environments. Although considerable progress has 
+been made in identifying key metabolisms associated with modern stromatolites, there is a gap in knowledge regarding the nature of the stromatolite 
+microbiome (i.e., totality of microbes, genomes and environmental interactions) and the degree to which the core microbiome is conserved in space and 
+time. In this project metagenomes collected from over 37 stromatolites will be integrated and bioinformatically compared to assess whether some microbes 
+and metabolisms are shared between morphologically and geographically distinct stromatolites. A student will be expected to help write scripts that will 
+help integrate the metagenomic data and help determine the dominant metabolisms shared between ecosystems. A student with a strong background 
+computational sciences and programing languages (e.g. R, python, perl) that wants more experience in biological in the following programs is encouraged 
+to apply. 
+
+Student Expectations: The student will be expected to work with a graduate student and help analyzed metagenomic data by writing scripts that will 
+integrate the sequencing data to assess the dominant pathways and microbes within the stromatolites.
+
+Work Expectations: The student will be expected to work 8 h days Monday thru Friday for a total of 40 h per week.

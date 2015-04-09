@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.5)  23 JAN 2015 14:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.5)  9 APR 2015 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -955,16 +955,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 59.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -973,29 +971,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17286 strings out of 493304
- 285985 string characters out of 6139872
+ 17281 strings out of 493304
+ 285887 string characters out of 6139872
  371198 words of memory out of 5000000
- 20486 multiletter control sequences out of 15000+600000
- 37613 words of font info for 46 fonts, out of 8000000 for 9000
+ 20482 multiletter control sequences out of 15000+600000
+ 34738 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  45i,11n,45p,10381b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/font
-s/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 164014 bytes).
+Output written on main.pdf (1 page, 87628 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
- 9729 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 7681 words of extra memory for PDF output out of 10000 (max. 10000000)
 
