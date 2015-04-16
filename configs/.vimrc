@@ -1,6 +1,7 @@
 set laststatus=2
-set backupdir=./backup,.,/tmp
-set directory=.,./backup,/tmp
+set nobackup
+set nowritebackup
+set noswapfile
 set nocompatible
 set autoindent
 set backup
@@ -19,13 +20,7 @@ set modeline
 set ls=2
 colorscheme molokai
 filetype off
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'gmarik/Vundle.vim'
-Plugin 'Valloric/YouCompleteMe'
-Plugin 'amdt/vim-niji'
-Plugin 'scrooloose/nerdtree'
-Plugin 'bling/vim-airline'
-call vundle#end()
 filetype indent on
-map <C-n> :NERDTreeToggle<CR>
+
+vnoremap # :s#^#\##<cr>
+vnoremap -# :s#^\###<cr>
